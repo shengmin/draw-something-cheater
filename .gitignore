@@ -1,0 +1,5 @@
+*.exe
+*.pdb
+*.class
+*.o
+*.hi
